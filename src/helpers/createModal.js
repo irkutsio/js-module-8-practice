@@ -1,4 +1,5 @@
 import * as basicLightbox from 'basiclightbox';
+
 import 'basicLightbox/dist/basicLightbox.min.css';
 
 function createModal (product) {
